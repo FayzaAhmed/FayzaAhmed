@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Fayza Ahmed</h1>
 <h3 align="center">I am interested in problem solving, mobile app development, and web development.</h3>
 <img align="right" alt="Coding" width="365" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayzaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="fayzaahmed" /> </p>
 
+- 🌱 I’m currently learning **Machine Learning**
+
 - 📫 How to reach me **fayzaa586@gmail.com**
+
+- ⚡ Fun fact **The first “computer bug” was an actual bug.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
